@@ -1,7 +1,7 @@
 ﻿# Sistema Gestor de Ventas e Inventario Express (Mini-POS)
 
 **Módulo:** Unidad 1 — Fundamentos de C# (.NET 8)  
-**Estudiante:** DilanGamer54  
+**Estudiante:** Dilan Zapata Reyes
 **Modalidad:** Individual / Parejas  
 
 ---
